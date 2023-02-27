@@ -1,4 +1,4 @@
-<!-- PT_BR -->
+== PT_BR ==
 
 Madness: Projeto Nexus
 v.1.0.0
@@ -9,10 +9,10 @@ Este projeto e atualizações futuras podem conter vídeos, imagens e textos que
 
 Como um recém-descoberto amante da programação, decidi escolher meu jogo favorito como meu primeiro projeto. Com o objetivo de desenvolver e aprimorar as habilidades adquiridas nos estudos. Futuramente pretendo atualizá-lo com novas funções que possam melhorar a experiência do usuário (interatividade).
 
-<!-- EN -->
+== EN ==
 
 Madness: Project Nexus
-v.1.0.0gi
+v.1.0.0
 This project is an enhanced page of the game Madness: Project Nexus, please visit the original site: https://www.madnessprojectnexus.com
 Creators: Gabbing Three - Matt Jolly (Krinkels), Michael Swain, Locknar, Cheshyre.
 
